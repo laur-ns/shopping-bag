@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace shopping_basket.Models
 {
-    public class Actor
+    public class Producer
     {
         [Key]
         public int Id { get; set; }
