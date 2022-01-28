@@ -5,4 +5,8 @@
     <RootNamespace>shopping_basket</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="5.0.13" />
+  </ItemGroup>
+
 </Project>
