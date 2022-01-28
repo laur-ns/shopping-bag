@@ -10,6 +10,7 @@ namespace shopping_basket.Data
         Action = 1,
         Crime,
         Drama,
+        Documentary,
         Thriller
     }
 }
