@@ -56,6 +56,9 @@ namespace shopping_basket
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
+
+            // seed db
+            AppDbInitializer.Seed(app);
         }
     }
 }
