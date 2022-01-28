@@ -10,8 +10,12 @@ namespace shopping_basket.Models
     {
         [Key]
         public int ID { get; set; }
+
+        [Display(Name = "Picture")]
         public string ProfilePictureURL { get; set; }
+        [Display(Name = "Name")]
         public string Name { get; set; }
+        [Display(Name = "Bio")]
         public string Bio { get; set; }
 
         public List<Actor_Movie> Actors_Movies { get; set; }

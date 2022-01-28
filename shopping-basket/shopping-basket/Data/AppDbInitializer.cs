@@ -66,7 +66,7 @@ namespace shopping_basket.Data
                         {
                             Name = "Actor 1",
                             Bio = "This is the Bio of the first actor",
-                            ProfilePictureURL = ""
+                            ProfilePictureURL = "https://i.imgur.com/pjpVFwa.png"
 
                         },
                         new Actor()
