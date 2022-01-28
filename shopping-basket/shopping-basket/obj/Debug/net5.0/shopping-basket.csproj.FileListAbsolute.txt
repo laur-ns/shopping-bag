@@ -71,3 +71,5 @@ C:\Projects\shopping-basket\shopping-basket\shopping-basket\obj\Debug\net5.0\sho
 C:\Projects\shopping-basket\shopping-basket\shopping-basket\obj\Debug\net5.0\shopping-basket.genruntimeconfig.cache
 C:\Projects\shopping-basket\shopping-basket\shopping-basket\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs
 C:\Projects\shopping-basket\shopping-basket\shopping-basket\obj\Debug\net5.0\Razor\Views\Producers\Index.cshtml.g.cs
+C:\Projects\shopping-basket\shopping-basket\shopping-basket\obj\Debug\net5.0\Razor\Views\Cinemas\Index.cshtml.g.cs
+C:\Projects\shopping-basket\shopping-basket\shopping-basket\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
