@@ -1,0 +1,8 @@
+C:\Projects\shopping-basket\shopping-basket\shopping-basket\obj\Debug\net6.0\shopping-basket.csproj.AssemblyReference.cache
+C:\Projects\shopping-basket\shopping-basket\shopping-basket\obj\Debug\net6.0\shopping-basket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\shopping-basket\shopping-basket\shopping-basket\obj\Debug\net6.0\shopping-basket.AssemblyInfoInputs.cache
+C:\Projects\shopping-basket\shopping-basket\shopping-basket\obj\Debug\net6.0\shopping-basket.AssemblyInfo.cs
+C:\Projects\shopping-basket\shopping-basket\shopping-basket\obj\Debug\net6.0\shopping-basket.csproj.CoreCompileInputs.cache
+C:\Projects\shopping-basket\shopping-basket\shopping-basket\obj\Debug\net6.0\shopping-basket.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\shopping-basket\shopping-basket\shopping-basket\obj\Debug\net6.0\shopping-basket.RazorAssemblyInfo.cache
+C:\Projects\shopping-basket\shopping-basket\shopping-basket\obj\Debug\net6.0\shopping-basket.RazorAssemblyInfo.cs
