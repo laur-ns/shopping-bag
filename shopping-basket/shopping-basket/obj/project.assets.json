@@ -5802,11 +5802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\shopping-basket\\shopping-basket\\shopping-basket\\shopping-basket.csproj",
+      "projectUniqueName": "C:\\Projects\\shopping-basket-as2\\shopping-basket\\shopping-basket\\shopping-basket.csproj",
       "projectName": "shopping-basket",
-      "projectPath": "C:\\Projects\\shopping-basket\\shopping-basket\\shopping-basket\\shopping-basket.csproj",
+      "projectPath": "C:\\Projects\\shopping-basket-as2\\shopping-basket\\shopping-basket\\shopping-basket.csproj",
       "packagesPath": "C:\\Users\\lrnsm\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\shopping-basket\\shopping-basket\\shopping-basket\\obj\\",
+      "outputPath": "C:\\Projects\\shopping-basket-as2\\shopping-basket\\shopping-basket\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lrnsm\\AppData\\Roaming\\NuGet\\NuGet.Config",

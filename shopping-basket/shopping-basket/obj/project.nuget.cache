@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DlLF5D+eW9KoEqgQHpXxWL7Px9/x9q1D9LHY9Olmf6PHrMpMmOQUxAHIpcDyRFDVrSmx0EYKaqOohpm/vCE78A==",
+  "dgSpecHash": "bcrh1lTDCCsaULYouhG8hC8ZRAFE7P9yeuFb91a7Dg050Uj50hK5w2PG9dFCzvqSzlHXVqlu1czsCXd/YOR96g==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\shopping-basket\\shopping-basket\\shopping-basket\\shopping-basket.csproj",
+  "projectFilePath": "C:\\Projects\\shopping-basket-as2\\shopping-basket\\shopping-basket\\shopping-basket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lrnsm\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lrnsm\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
