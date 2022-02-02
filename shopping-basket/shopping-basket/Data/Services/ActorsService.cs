@@ -17,7 +17,8 @@ namespace shopping_basket.Data.Services
 
         public void Add(Actor actor)
         {
-            throw new NotImplementedException();
+            _context.Actors.Add(actor);
+            _context.SaveChanges();
         }
 
         public void Delete(int id)
