@@ -6,6 +6,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using shopping_basket.Data;
+using shopping_basket.Data.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,6 +28,9 @@ namespace shopping_basket
         {
             // DbContext config
             services.AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnectionString")));
+
+            // services config
+            services.AddScoped<IActorsService, ActorsService>();
             services.AddControllersWithViews();
         }
 

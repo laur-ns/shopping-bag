@@ -21,5 +21,11 @@ namespace shopping_basket.Controllers
             var data = await _service.GetAll();
             return View(data);
         }
+
+        // get: actors / create
+        public IActionResult Create()
+        {
+            return View();
+        }
     }
 }
